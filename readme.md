@@ -1,6 +1,8 @@
 # Sachin Diku
 
 Hey this is Sachin-Diku website!
+I love learning from tanay pratap! And I love to do coding as well! Thank you!
+
 I m leanring coding from tanay pratap who teach me coding through Youtube.
 
 For now I Know:
