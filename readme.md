@@ -1,2 +1,4 @@
-hey this is sachin-diku website!
-This is my coding website and make you better place!
+# Sachin Diku
+
+Hey this is Sachin-Diku website!
+I m leanring coding from tanay pratap who teach me coding through Youtube 
