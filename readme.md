@@ -1,2 +1,2 @@
-hey this is sachin website!
-please read this carefully!
+hey this is sachin-diku website!
+This is my coding website and make you better place!
