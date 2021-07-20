@@ -1,4 +1,4 @@
-# Sachin Diku
+# MR. Sachin Diku!
 
 Hey this is Sachin-Diku website!
 I love learning from tanay pratap! And I love to do coding as well! Thank you!
@@ -13,3 +13,8 @@ For now I Know:
 1. Code
 
 Lets do some changes in websites!
+
+For future notification!
+
+
+Please follow the page for upcomming update!
