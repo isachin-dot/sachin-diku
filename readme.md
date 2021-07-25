@@ -1,9 +1,9 @@
 # MR. Sachin Diku!
 
-Hey this is Sachin-Diku website!
-I love learning from tanay pratap! And I love to do coding as well! Thank you!
+Hey this is Sachin!
 
-I m leanring coding from tanay pratap who teach me coding through Youtube.
+
+I m leanring coding!
 
 For now I Know:
 
@@ -16,15 +16,12 @@ For now I Know:
 <hr>
 
 
-<smaller>Lets do some changes in websites!<smaller>
-
 
 For future notification!
 
 
 Please follow the page for upcomming update!
 
-my mentor are RAJESH SANGAL who suggest me learn coding from TANAY PRATAP through YOUTUBE.
 
     M thankful to RAJESH SANGAL and TANAY PRATAP!
 
