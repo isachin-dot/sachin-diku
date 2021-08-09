@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
 
 :root {
-    --primary-color: #111827;
+    --primary-color:  #831843;
     --dark-gray: #4B5563;
     --off-white: #E5E7EB;
 }
@@ -10,6 +10,9 @@
 body {
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
+    background: #282828;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    
         
 }
 
@@ -63,15 +66,15 @@ hr {
 /** navigation **/
 
 .navigation{
-    background-color: var(--primary-color);
-    color: white;
+    
+    color: black;
     padding: 1.1rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 }
 .navigation .nav-developer{
     font-weight: bold;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
 }
 
 .navigation .nav-pills {
@@ -80,7 +83,7 @@ hr {
 
 
 .navigation .links {
-    color: white;
+    color: black;
 }
 
 .navigation .link-active {
@@ -125,16 +128,19 @@ hr {
 /** footer**/
 
 .footer {
-    background-color: var(--primary-color);
     padding: 3rem 0rem;
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 .footer .link {
-    color: white;
+    color: black;
 }
 
+.list-on-bullet .nav-pills a:hover {
+transition: 3s;
+color: seagreen;
 
+}
