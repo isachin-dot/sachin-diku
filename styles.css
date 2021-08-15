@@ -12,8 +12,6 @@ body {
     margin: 0px;
     background: #282828;
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    
-        
 }
 
 hr {
@@ -35,7 +33,6 @@ hr {
 .links {
     text-decoration: none;
     padding: 0rem 1rem;
-
 }
 
 .primary-links {
@@ -66,12 +63,12 @@ hr {
 /** navigation **/
 
 .navigation{
-    
     color: black;
     padding: 1.1rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 }
+
 .navigation .nav-developer{
     font-weight: bold;
     font-size: 1.5rem;
@@ -135,12 +132,15 @@ hr {
     color: black;
 }
 
-.footer .link {
-    color: black;
+.footer .footer-header{
+    font-weight: bold;
 }
 
-.list-on-bullet .nav-pills a:hover {
-transition: 3s;
-color: seagreen;
+.footer .link-active{
+    font-weight: bold;
+}
 
+
+.footer .link {
+    color: black;
 }
