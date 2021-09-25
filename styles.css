@@ -32,18 +32,18 @@ hr {
 /** links **/
 .links {
     text-decoration: none;
-    padding: 0rem 1rem;
+    padding: 0.1rem 1rem;
 }
 
 .primary-links {
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 0.9rem;
     color: white;
 }
 
 .secondary-links {
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 0.9rem;
     border: 1px solid;
     color: white;
 }
@@ -63,7 +63,7 @@ hr {
 /** navigation **/
 
 .navigation{
-    color: white;
+    color: black;
     padding: 1.1rem;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
